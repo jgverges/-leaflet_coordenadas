@@ -9,5 +9,5 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 // marcador en c Balmes 16
 var marker = L.marker([41.3868561, 2.1661102]).addTo(mymap);
-marker.bindPopup("<b>c Balmes 16</b><br>Bcn.").openPopup();
+marker.bindPopup("<b>c Balmes 16</b><br>Bcn.");
 
